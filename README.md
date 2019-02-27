@@ -19,6 +19,7 @@ Videos:
 - [Stop Managing, Start Leading | Hamza Khan](https://www.youtube.com/watch?v=d_HHnEROy_w)
 - [The Power of Zero Tolerance | Isabelle Mercier](https://www.youtube.com/watch?v=--mY5ruEhqI)
   - if you can not say no to what you do not want, you will never have the time and the energy for what you do want.
+  - what you tolerate you worry about.
 
 Books:
 - [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
