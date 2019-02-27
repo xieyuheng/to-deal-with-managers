@@ -25,7 +25,12 @@ Persons:
 
 ## About The Concept of Work Itself
 
-[RSA ANIMATE: Re-Imagining Work](https://www.youtube.com/watch?v=G11t6XAIce0)
+Videos:
+- [RSA ANIMATE: Re-Imagining Work](https://www.youtube.com/watch?v=G11t6XAIce0)
+  - Dave Coplin imagines what might be possible
+    if more organisations embraced the full,
+    empowering potential of technology & encouraged
+    an open, collaborative & flexible working culture.
 
 ## About Agile and Scrum
 
