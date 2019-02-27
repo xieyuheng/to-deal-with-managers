@@ -10,8 +10,12 @@ Videos:
   - Dr. Gary Namie explains the four main types of workplace bullying tactics.
 - [Good employees leave BAD managers - Here's why!](https://www.youtube.com/watch?v=4EYor4aRGTM)
   - Good employees leave bad managers not the job.
+- [Bullying and Corporate Psychopaths at Work: Clive Boddy](https://www.youtube.com/watch?v=tlB1pFwGhA4)
 
 ## For Good Leadership and Working Environment
+
+Books:
+- [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
 
 Videos:
 - [Pieter Hintjens - ZMQ, tech, ideas, community, writing and life](https://www.youtube.com/watch?v=ApqI9XLRk4k)
@@ -26,9 +30,6 @@ Videos:
     if you can not say no to what you do not want,
     you will never have the time and the energy for what you do want.
   - what you tolerate you worry about.
-
-Books:
-- [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
 
 Persons:
 - [Pieter Hintjens](http://hintjens.com/)
