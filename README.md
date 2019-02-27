@@ -26,8 +26,8 @@ Videos:
 - [How to start changing an unhealthy work environment](https://www.youtube.com/watch?v=eYLb7WUtYt8)
 - [Stop Managing, Start Leading | Hamza Khan](https://www.youtube.com/watch?v=d_HHnEROy_w)
 - [The Power of Zero Tolerance | Isabelle Mercier](https://www.youtube.com/watch?v=--mY5ruEhqI)
-  - Do not be afraid to speak your truth,
-    if you can not say no to what you do not want,
+  - Do not be afraid to speak your truth,  
+    if you can not say no to what you do not want,  
     you will never have the time and the energy for what you do want.
   - what you tolerate you worry about.
 
@@ -41,9 +41,9 @@ Videos:
 - [David Graeber on the Value of Work](https://www.youtube.com/watch?v=tpoJIkqEXYo)
 - [5 Types of Bullshit Jobs with David Graeber](https://www.youtube.com/watch?v=kehnIQ41y2o)
 - [RSA ANIMATE: Re-Imagining Work](https://www.youtube.com/watch?v=G11t6XAIce0)
-  - Dave Coplin imagines what might be possible
-    if more organisations embraced the full,
-    empowering potential of technology & encouraged
+  - Dave Coplin imagines what might be possible  
+    if more organisations embraced the full,  
+    empowering potential of technology & encouraged  
     an open, collaborative & flexible working culture.
 
 ## About Agile and Scrum
