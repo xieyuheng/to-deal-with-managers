@@ -14,11 +14,15 @@ Videos:
 ## For Good Leadership and Working Environment
 
 Videos:
+- [Pieter Hintjens - ZMQ, tech, ideas, community, writing and life](https://www.youtube.com/watch?v=ApqI9XLRk4k)
+  - DO NOT EAT CHEAP SUSHI!
 - [Why good leaders make you feel safe | Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo)
 - [How to start changing an unhealthy work environment](https://www.youtube.com/watch?v=eYLb7WUtYt8)
 - [Stop Managing, Start Leading | Hamza Khan](https://www.youtube.com/watch?v=d_HHnEROy_w)
 - [The Power of Zero Tolerance | Isabelle Mercier](https://www.youtube.com/watch?v=--mY5ruEhqI)
-  - if you can not say no to what you do not want, you will never have the time and the energy for what you do want.
+  - Do not be afraid to speak your truth,
+    if you can not say no to what you do not want,
+    you will never have the time and the energy for what you do want.
   - what you tolerate you worry about.
 
 Books:
