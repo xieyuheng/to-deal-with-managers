@@ -26,6 +26,8 @@ Persons:
 ## About The Concept of Work Itself
 
 Videos:
+- [David Graeber on the Value of Work](https://www.youtube.com/watch?v=tpoJIkqEXYo)
+- [5 Types of Bullshit Jobs with David Graeber](https://www.youtube.com/watch?v=kehnIQ41y2o)
 - [RSA ANIMATE: Re-Imagining Work](https://www.youtube.com/watch?v=G11t6XAIce0)
   - Dave Coplin imagines what might be possible
     if more organisations embraced the full,
