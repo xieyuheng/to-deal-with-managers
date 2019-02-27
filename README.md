@@ -23,6 +23,10 @@ Persons:
 - [Pieter Hintjens](http://hintjens.com/)
 - [Simon Sinek](https://startwithwhy.com/)
 
+## About The Concept of Work Itself
+
+[RSA ANIMATE: Re-Imagining Work](https://www.youtube.com/watch?v=G11t6XAIce0)
+
 ## About Agile and Scrum
 
 Videos:
