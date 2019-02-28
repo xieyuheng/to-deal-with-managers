@@ -16,6 +16,7 @@ Videos:
 
 Books:
 - [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
+- Up The Organization [(epub)](https://github.com/xieyuheng/sharing/raw/master/book/management/up-the-organization.epub)
 
 Videos:
 - [Pieter Hintjens - ZMQ, tech, ideas, community, writing and life](https://www.youtube.com/watch?v=ApqI9XLRk4k)
@@ -30,6 +31,7 @@ Videos:
     if you can not say no to what you do not want,  
     you will never have the time and the energy for what you do want.
   - what you tolerate you worry about.
+- [The rarest commodity is leadership without ego -- Bob Davids](https://www.youtube.com/watch?v=UQrPVmcgJJk)
 
 Persons:
 - [Pieter Hintjens](http://hintjens.com/)
