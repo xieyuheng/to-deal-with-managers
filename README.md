@@ -16,7 +16,7 @@ Videos:
 
 Books:
 - [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
-- Up The Organization [(epub)](https://github.com/xieyuheng/sharing/raw/master/book/management/up-the-organization.epub)
+- Up The Organization [(download)](https://github.com/xieyuheng/sharing/raw/master/book/management/up-the-organization.epub)
 
 Videos:
 - [Pieter Hintjens - ZMQ, tech, ideas, community, writing and life](https://www.youtube.com/watch?v=ApqI9XLRk4k)
