@@ -22,6 +22,7 @@ Videos:
 - [Pieter Hintjens - ZMQ, tech, ideas, community, writing and life](https://www.youtube.com/watch?v=ApqI9XLRk4k)
   - DO NOT EAT CHEAP SUSHI!
 - [One wierd trick for making perfect software](https://www.youtube.com/watch?v=xFVDNTXIC_Y)
+- [Building Open Source Communities Through Social Architecture](https://vimeo.com/68236487)
 - [Pieter Hintjens - Building Open Source Communities - DomCode 2015](https://www.youtube.com/watch?v=uzxcILudFWM)
 - [Why good leaders make you feel safe | Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo)
 - [How to start changing an unhealthy work environment](https://www.youtube.com/watch?v=eYLb7WUtYt8)
