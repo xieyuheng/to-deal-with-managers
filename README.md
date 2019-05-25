@@ -1,5 +1,21 @@
 # Notes about Dealing with Managers
 
+## The Programmer's Oath
+
+In order to defend and preserve the honor of the profession of computer programmers, I Promise that, to the best of my ability and judgement:
+1. I will not produce harmful code.
+2. The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate.
+3. I will produce, with each release, a quick, sure, and repeatable proof that every element of the code works as it should.
+4. I will make frequent, small, releases so that I do not impede the progress of others.
+5. I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
+6. I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity.
+7. I will continuously ensure that others can cover for me, and that I can cover for them.
+8. I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
+9. I will never stop learning and improving my craft.
+
+Videos:
+- [The Programmer's Oath from Uncle Bob Martin](https://www.youtube.com/watch?v=2xSjD8PXjFg&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+
 ## Dealing with Bad Leadership
 
 Books:
@@ -28,8 +44,8 @@ Videos:
 - [How to start changing an unhealthy work environment](https://www.youtube.com/watch?v=eYLb7WUtYt8)
 - [Stop Managing, Start Leading | Hamza Khan](https://www.youtube.com/watch?v=d_HHnEROy_w)
 - [The Power of Zero Tolerance | Isabelle Mercier](https://www.youtube.com/watch?v=--mY5ruEhqI)
-  - Do not be afraid to speak your truth,  
-    if you can not say no to what you do not want,  
+  - Do not be afraid to speak your truth,
+    if you can not say no to what you do not want,
     you will never have the time and the energy for what you do want.
   - what you tolerate you worry about.
 - [The rarest commodity is leadership without ego -- Bob Davids](https://www.youtube.com/watch?v=UQrPVmcgJJk)
@@ -44,9 +60,9 @@ Videos:
 - [David Graeber on the Value of Work](https://www.youtube.com/watch?v=tpoJIkqEXYo)
 - [5 Types of Bullshit Jobs with David Graeber](https://www.youtube.com/watch?v=kehnIQ41y2o)
 - [RSA ANIMATE: Re-Imagining Work](https://www.youtube.com/watch?v=G11t6XAIce0)
-  - Dave Coplin imagines what might be possible  
-    if more organisations embraced the full,  
-    empowering potential of technology & encouraged  
+  - Dave Coplin imagines what might be possible
+    if more organisations embraced the full,
+    empowering potential of technology & encouraged
     an open, collaborative & flexible working culture.
 
 ## About Agile and Scrum
