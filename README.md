@@ -53,8 +53,8 @@ Videos:
 
 Persons:
 - [Pieter Hintjens](http://hintjens.com/)
-- [Simon Sinek](https://startwithwhy.com/)
-- Uncle Bob Martin's [The Clean Code Blog](https://blog.cleancoder.com/)
+- [Simon Sinek (Start With Why)](https://startwithwhy.com/)
+- [Uncle Bob Martin (The Clean Code Blog)](https://blog.cleancoder.com/)
 
 ## About The Concept of Work Itself
 
