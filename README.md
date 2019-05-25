@@ -35,6 +35,7 @@ Books:
 - Up The Organization [(download)](https://github.com/xieyuheng/sharing/raw/master/book/management/up-the-organization.epub)
 
 Videos:
+- [Uncle Bob Martin - The Craftsman's Oath - SCLConf 2018](https:// https://www.youtube.com/watch?v=17vTLSkXTOo)
 - [Pieter Hintjens - ZMQ, tech, ideas, community, writing and life](https://www.youtube.com/watch?v=ApqI9XLRk4k)
   - DO NOT EAT CHEAP SUSHI!
 - [One wierd trick for making perfect software](https://www.youtube.com/watch?v=xFVDNTXIC_Y)
@@ -53,6 +54,7 @@ Videos:
 Persons:
 - [Pieter Hintjens](http://hintjens.com/)
 - [Simon Sinek](https://startwithwhy.com/)
+- Uncle Bob Martin's [The Clean Code Blog](https://blog.cleancoder.com/)
 
 ## About The Concept of Work Itself
 
