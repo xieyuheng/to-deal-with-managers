@@ -28,7 +28,7 @@ Videos:
   - Good employees leave bad managers not the job.
 - [Bullying and Corporate Psychopaths at Work: Clive Boddy](https://www.youtube.com/watch?v=tlB1pFwGhA4)
 
-## For Good Leadership and Working Environment
+## Good Leadership and Working Environment
 
 Books:
 - [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
@@ -56,7 +56,7 @@ Persons:
 - [Simon Sinek (Start With Why)](https://startwithwhy.com/)
 - [Uncle Bob Martin (The Clean Code Blog)](https://blog.cleancoder.com/)
 
-## About The Concept of Work Itself
+## The Concept of Work Itself
 
 Videos:
 - [David Graeber on the Value of Work](https://www.youtube.com/watch?v=tpoJIkqEXYo)
@@ -67,7 +67,7 @@ Videos:
     empowering potential of technology & encouraged
     an open, collaborative & flexible working culture.
 
-## About Agile and Scrum
+## Agile and Scrum
 
 Videos:
 - [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE&list=PLsVPinNyc_hr1bAjgM6IzAfmWTZVttEFe&index=4)
@@ -80,3 +80,8 @@ Videos:
   - oo is about mapping user's mental model to program
   - regression test is to not re-produce old bugs when changing the code
 - [One Hacker Way Rational alternative of Agile - Erik Meijer](https://www.youtube.com/watch?v=2u0sNRO-QKQ)
+
+## Software Architecture
+
+Videos:
+- [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
